@@ -9,11 +9,6 @@ Set up the python environment
 Initialize virtual environment(.venv)
 **python -m venv .venv**
 
-# Activate (each new terminal)
-# macOS/Linux: source .venv/bin/activate
-# Windows CMD: .venv\Scripts\activate.bat
-# Windows PowerShell: .venv\Scripts\Activate.ps1
-
 Activate virtual env
 
 Activate (each new terminal)
@@ -25,14 +20,18 @@ Windows CMD (Git Bash): source .venv/Scripts/activate
 Windows PowerShell: .venv\Scripts\Activate.ps1
 
 pip install -r requirements.txt
-Have the following project structure
+Have the following project structure:- 
+
 parent_folder/
     multi_tool_agent/
         __init__.py
         agent.py
         .env
+      
 Defined root agent and start integrating tools and services!
-Run project with adk web
+
+Run project with **adk web**
+
 Note: ElevenLabs integration will need ffmpeg
 
 Download ffmpeg from here: https://ffmpeg.org/download.html#build-windows
