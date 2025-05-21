@@ -1,7 +1,7 @@
 # Google-ADK-Agent-multitool
 
-Install python
-Have an IDE
+1.Install python
+2.Have an IDE
 Steps:
 
 Set up the python environment
