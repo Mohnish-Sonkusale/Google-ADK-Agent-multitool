@@ -7,7 +7,7 @@ Steps:
 
 Set up the python environment
 Initialize virtual environment(.venv)
-python -m venv .venv
+**python -m venv .venv**
 
 # Activate (each new terminal)
 # macOS/Linux: source .venv/bin/activate
