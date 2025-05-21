@@ -1,7 +1,8 @@
 # Google-ADK-Agent-multitool
 ## Prerequisites:
-1.Install python \n
-2.Have an IDE
+1. Intall python
+2. Have IDE (Like Vscode & pycharm)
+   
 Steps:
 
 Set up the python environment
